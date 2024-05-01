@@ -1,0 +1,1 @@
+The bug was that the numbers were being passed in as strings and thus the result was simply a concatenation of the two inputs.
